@@ -1,0 +1,491 @@
+{
+	"data": [
+		{
+			"id": "16412",
+			"type": "mediaRelationships",
+			"links": {
+				"self": "https://kitsu.io/api/edge/media-relationships/16412"
+			},
+			"attributes": {
+				"createdAt": null,
+				"updatedAt": null,
+				"role": "prequel"
+			},
+			"relationships": {
+				"source": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/media-relationships/16412/relationships/source",
+						"related": "https://kitsu.io/api/edge/media-relationships/16412/source"
+					}
+				},
+				"destination": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/media-relationships/16412/relationships/destination",
+						"related": "https://kitsu.io/api/edge/media-relationships/16412/destination"
+					},
+					"data": {
+						"type": "anime",
+						"id": "6397"
+					}
+				}
+			}
+		},
+		{
+			"id": "16413",
+			"type": "mediaRelationships",
+			"links": {
+				"self": "https://kitsu.io/api/edge/media-relationships/16413"
+			},
+			"attributes": {
+				"createdAt": null,
+				"updatedAt": null,
+				"role": "sequel"
+			},
+			"relationships": {
+				"source": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/media-relationships/16413/relationships/source",
+						"related": "https://kitsu.io/api/edge/media-relationships/16413/source"
+					}
+				},
+				"destination": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/media-relationships/16413/relationships/destination",
+						"related": "https://kitsu.io/api/edge/media-relationships/16413/destination"
+					},
+					"data": {
+						"type": "anime",
+						"id": "7069"
+					}
+				}
+			}
+		}
+	],
+	"included": [
+		{
+			"id": "6397",
+			"type": "anime",
+			"links": {
+				"self": "https://kitsu.io/api/edge/anime/6397"
+			},
+			"attributes": {
+				"createdAt": "2013-02-20T17:39:08.620Z",
+				"updatedAt": "2023-10-28T12:00:19.156Z",
+				"slug": "boku-wa-tomodachi-ga-sukunai-episode-0",
+				"synopsis": "Hasegawa Kodaka has transferred schools, and he's having a hard time making friends. It doesn't help that his blond hair tends to make people think he's a delinquent. One day, he runs into his bad-tempered solitary classmate Yozora while she's talking animatedly to her imaginary friend Tomo. Realizing that neither of them have any actual friends, they decide that the best way to alter this situation is to form a club and start recruiting.\nThat is how \"Rinjinbu\", The Neighbours' Club, was formed, a club specifically designed for people who don't have very many friends. As other lonely classmates slowly join their little club, they'll try to learn how to build friendships through cooking together, playing games, and other group activities. But will this group of relationship-challenged misfits really be able to get along?\n(Source: MU) ",
+				"description": "Hasegawa Kodaka has transferred schools, and he's having a hard time making friends. It doesn't help that his blond hair tends to make people think he's a delinquent. One day, he runs into his bad-tempered solitary classmate Yozora while she's talking animatedly to her imaginary friend Tomo. Realizing that neither of them have any actual friends, they decide that the best way to alter this situation is to form a club and start recruiting.\nThat is how \"Rinjinbu\", The Neighbours' Club, was formed, a club specifically designed for people who don't have very many friends. As other lonely classmates slowly join their little club, they'll try to learn how to build friendships through cooking together, playing games, and other group activities. But will this group of relationship-challenged misfits really be able to get along?\n(Source: MU) ",
+				"coverImageTopOffset": 75,
+				"titles": {
+					"en_jp": "Boku wa Tomodachi ga Sukunai Episode 0",
+					"ja_jp": "僕は友達が少ない 第0語"
+				},
+				"canonicalTitle": "Boku wa Tomodachi ga Sukunai Episode 0",
+				"abbreviatedTitles": ["Boku wa Tomodachi ga Sukunai OVA", "Haganai OVA", "I Don't Have Many Friends OVA", "Boku ha Tomodachi ga Sukunai OVA"],
+				"averageRating": "66.08",
+				"ratingFrequencies": {
+					"2": "73",
+					"3": "1",
+					"4": "92",
+					"5": "0",
+					"6": "167",
+					"7": "2",
+					"8": "503",
+					"9": "12",
+					"10": "775",
+					"11": "12",
+					"12": "1547",
+					"13": "20",
+					"14": "1631",
+					"15": "21",
+					"16": "906",
+					"17": "6",
+					"18": "306",
+					"19": "3",
+					"20": "522"
+				},
+				"userCount": 12266,
+				"favoritesCount": 29,
+				"startDate": "2011-09-22",
+				"endDate": "2011-09-22",
+				"nextRelease": null,
+				"popularityRank": 1284,
+				"ratingRank": 7402,
+				"ageRating": "PG",
+				"ageRatingGuide": "Teens 13 or older",
+				"subtype": "OVA",
+				"status": "finished",
+				"tba": null,
+				"posterImage": {
+					"tiny": "https://media.kitsu.io/anime/poster_images/6397/tiny.jpg",
+					"large": "https://media.kitsu.io/anime/poster_images/6397/large.jpg",
+					"small": "https://media.kitsu.io/anime/poster_images/6397/small.jpg",
+					"medium": "https://media.kitsu.io/anime/poster_images/6397/medium.jpg",
+					"original": "https://media.kitsu.io/anime/poster_images/6397/original.jpg",
+					"meta": {
+						"dimensions": {
+							"tiny": {
+								"width": 110,
+								"height": 156
+							},
+							"large": {
+								"width": 550,
+								"height": 780
+							},
+							"small": {
+								"width": 284,
+								"height": 402
+							},
+							"medium": {
+								"width": 390,
+								"height": 554
+							}
+						}
+					}
+				},
+				"coverImage": {
+					"tiny": "https://media.kitsu.io/anime/cover_images/6397/tiny.jpg",
+					"large": "https://media.kitsu.io/anime/cover_images/6397/large.jpg",
+					"small": "https://media.kitsu.io/anime/cover_images/6397/small.jpg",
+					"original": "https://media.kitsu.io/anime/cover_images/6397/original.jpg",
+					"meta": {
+						"dimensions": {
+							"tiny": {
+								"width": 840,
+								"height": 200
+							},
+							"large": {
+								"width": 3360,
+								"height": 800
+							},
+							"small": {
+								"width": 1680,
+								"height": 400
+							}
+						}
+					}
+				},
+				"episodeCount": 1,
+				"episodeLength": 11,
+				"totalLength": 11,
+				"youtubeVideoId": null,
+				"showType": "OVA",
+				"nsfw": false
+			},
+			"relationships": {
+				"genres": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/genres",
+						"related": "https://kitsu.io/api/edge/anime/6397/genres"
+					}
+				},
+				"categories": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/categories",
+						"related": "https://kitsu.io/api/edge/anime/6397/categories"
+					}
+				},
+				"castings": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/castings",
+						"related": "https://kitsu.io/api/edge/anime/6397/castings"
+					}
+				},
+				"installments": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/installments",
+						"related": "https://kitsu.io/api/edge/anime/6397/installments"
+					}
+				},
+				"mappings": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/mappings",
+						"related": "https://kitsu.io/api/edge/anime/6397/mappings"
+					}
+				},
+				"reviews": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/reviews",
+						"related": "https://kitsu.io/api/edge/anime/6397/reviews"
+					}
+				},
+				"mediaRelationships": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/media-relationships",
+						"related": "https://kitsu.io/api/edge/anime/6397/media-relationships"
+					}
+				},
+				"characters": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/characters",
+						"related": "https://kitsu.io/api/edge/anime/6397/characters"
+					}
+				},
+				"staff": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/staff",
+						"related": "https://kitsu.io/api/edge/anime/6397/staff"
+					}
+				},
+				"productions": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/productions",
+						"related": "https://kitsu.io/api/edge/anime/6397/productions"
+					}
+				},
+				"quotes": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/quotes",
+						"related": "https://kitsu.io/api/edge/anime/6397/quotes"
+					}
+				},
+				"episodes": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/episodes",
+						"related": "https://kitsu.io/api/edge/anime/6397/episodes"
+					}
+				},
+				"streamingLinks": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/streaming-links",
+						"related": "https://kitsu.io/api/edge/anime/6397/streaming-links"
+					}
+				},
+				"animeProductions": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/anime-productions",
+						"related": "https://kitsu.io/api/edge/anime/6397/anime-productions"
+					}
+				},
+				"animeCharacters": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/anime-characters",
+						"related": "https://kitsu.io/api/edge/anime/6397/anime-characters"
+					}
+				},
+				"animeStaff": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/6397/relationships/anime-staff",
+						"related": "https://kitsu.io/api/edge/anime/6397/anime-staff"
+					}
+				}
+			}
+		},
+		{
+			"id": "7069",
+			"type": "anime",
+			"links": {
+				"self": "https://kitsu.io/api/edge/anime/7069"
+			},
+			"attributes": {
+				"createdAt": "2013-02-20T17:49:50.007Z",
+				"updatedAt": "2023-10-28T12:00:19.156Z",
+				"slug": "boku-wa-tomodachi-ga-sukunai-add-on-disc",
+				"synopsis": "Unaired 13th episode of Boku wa Tomodachi ga Sukunai.",
+				"description": "Unaired 13th episode of Boku wa Tomodachi ga Sukunai.",
+				"coverImageTopOffset": 162,
+				"titles": {
+					"en": "Haganai: Add-on Disc",
+					"en_jp": "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai",
+					"en_us": "Haganai: Add-on Disc",
+					"ja_jp": "僕は友達が少ない リレー小説は結末が半端ないL(゜□゜)」"
+				},
+				"canonicalTitle": "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai",
+				"abbreviatedTitles": ["I Don't Have Many Friends: Add-on Disc", "Boku wa Tomodachi ga Sukunai: Add-on Disc"],
+				"averageRating": "70.33",
+				"ratingFrequencies": {
+					"2": "43",
+					"3": "1",
+					"4": "52",
+					"5": "2",
+					"6": "120",
+					"7": "3",
+					"8": "241",
+					"9": "5",
+					"10": "529",
+					"11": "6",
+					"12": "1202",
+					"13": "25",
+					"14": "1846",
+					"15": "24",
+					"16": "1419",
+					"17": "13",
+					"18": "451",
+					"19": "4",
+					"20": "508"
+				},
+				"userCount": 11701,
+				"favoritesCount": 29,
+				"startDate": "2012-09-26",
+				"endDate": "2012-09-26",
+				"nextRelease": null,
+				"popularityRank": 1325,
+				"ratingRank": 4669,
+				"ageRating": "R",
+				"ageRatingGuide": "Mild Nudity",
+				"subtype": "OVA",
+				"status": "finished",
+				"tba": null,
+				"posterImage": {
+					"tiny": "https://media.kitsu.io/anime/poster_images/7069/tiny.jpg",
+					"large": "https://media.kitsu.io/anime/poster_images/7069/large.jpg",
+					"small": "https://media.kitsu.io/anime/poster_images/7069/small.jpg",
+					"medium": "https://media.kitsu.io/anime/poster_images/7069/medium.jpg",
+					"original": "https://media.kitsu.io/anime/poster_images/7069/original.jpg",
+					"meta": {
+						"dimensions": {
+							"tiny": {
+								"width": 110,
+								"height": 156
+							},
+							"large": {
+								"width": 550,
+								"height": 780
+							},
+							"small": {
+								"width": 284,
+								"height": 402
+							},
+							"medium": {
+								"width": 390,
+								"height": 554
+							}
+						}
+					}
+				},
+				"coverImage": {
+					"tiny": "https://media.kitsu.io/anime/cover_images/7069/tiny.jpg",
+					"large": "https://media.kitsu.io/anime/cover_images/7069/large.jpg",
+					"small": "https://media.kitsu.io/anime/cover_images/7069/small.jpg",
+					"original": "https://media.kitsu.io/anime/cover_images/7069/original.jpg",
+					"meta": {
+						"dimensions": {
+							"tiny": {
+								"width": 840,
+								"height": 200
+							},
+							"large": {
+								"width": 3360,
+								"height": 800
+							},
+							"small": {
+								"width": 1680,
+								"height": 400
+							}
+						}
+					}
+				},
+				"episodeCount": 1,
+				"episodeLength": 24,
+				"totalLength": 24,
+				"youtubeVideoId": "fD2VU7vsFnE",
+				"showType": "OVA",
+				"nsfw": false
+			},
+			"relationships": {
+				"genres": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/genres",
+						"related": "https://kitsu.io/api/edge/anime/7069/genres"
+					}
+				},
+				"categories": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/categories",
+						"related": "https://kitsu.io/api/edge/anime/7069/categories"
+					}
+				},
+				"castings": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/castings",
+						"related": "https://kitsu.io/api/edge/anime/7069/castings"
+					}
+				},
+				"installments": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/installments",
+						"related": "https://kitsu.io/api/edge/anime/7069/installments"
+					}
+				},
+				"mappings": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/mappings",
+						"related": "https://kitsu.io/api/edge/anime/7069/mappings"
+					}
+				},
+				"reviews": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/reviews",
+						"related": "https://kitsu.io/api/edge/anime/7069/reviews"
+					}
+				},
+				"mediaRelationships": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/media-relationships",
+						"related": "https://kitsu.io/api/edge/anime/7069/media-relationships"
+					}
+				},
+				"characters": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/characters",
+						"related": "https://kitsu.io/api/edge/anime/7069/characters"
+					}
+				},
+				"staff": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/staff",
+						"related": "https://kitsu.io/api/edge/anime/7069/staff"
+					}
+				},
+				"productions": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/productions",
+						"related": "https://kitsu.io/api/edge/anime/7069/productions"
+					}
+				},
+				"quotes": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/quotes",
+						"related": "https://kitsu.io/api/edge/anime/7069/quotes"
+					}
+				},
+				"episodes": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/episodes",
+						"related": "https://kitsu.io/api/edge/anime/7069/episodes"
+					}
+				},
+				"streamingLinks": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/streaming-links",
+						"related": "https://kitsu.io/api/edge/anime/7069/streaming-links"
+					}
+				},
+				"animeProductions": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/anime-productions",
+						"related": "https://kitsu.io/api/edge/anime/7069/anime-productions"
+					}
+				},
+				"animeCharacters": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/anime-characters",
+						"related": "https://kitsu.io/api/edge/anime/7069/anime-characters"
+					}
+				},
+				"animeStaff": {
+					"links": {
+						"self": "https://kitsu.io/api/edge/anime/7069/relationships/anime-staff",
+						"related": "https://kitsu.io/api/edge/anime/7069/anime-staff"
+					}
+				}
+			}
+		}
+	],
+	"meta": {
+		"count": 2
+	},
+	"links": {
+		"first": "https://kitsu.io/api/edge/anime/6316/media-relationships?filter%5Brole%5D=prequel%2Csequel&include=destination&page%5Blimit%5D=10&page%5Boffset%5D=0",
+		"last": "https://kitsu.io/api/edge/anime/6316/media-relationships?filter%5Brole%5D=prequel%2Csequel&include=destination&page%5Blimit%5D=10&page%5Boffset%5D=0"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "name": "quicktype-bug-repro",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc",
+    "quicktype": "quicktype -s json samples -o index.ts"
+  },
+  "devDependencies": {
+    "quicktype": "^23.0.76",
+    "typescript": "^5.1.3"
+  }
+}
